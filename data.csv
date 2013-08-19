@@ -1,0 +1,197 @@
+,Description - Describe your...,Description Hint,Map Hint - Locate your ........
+Property for Sale,,,
+    Residential for Sale,property,"What is your space like, does it have a certain style?
+What is your neighbourhood like? Are there restaurants, shops or attractions?
+Is there nearby public transport?
+What makes your the property unique?",property
+    Commercial for Sale,property,"What is your space like, does it have a certain style?
+What is your neighbourhood like? Are there restaurants, shops or attractions?
+Is there nearby public transport?
+What makes your the property unique?",property
+    Multiple Units for Sale,properties,"What is your neighbourhood like? Are there restaurants, shops or attractions? 
+Is there nearby public transport?
+What makes your the properties unique?",properties
+    Land for Sale,land,"What might the land be good for, is it near other business or has useful transport link?",land
+Community,,,
+    Activities,activity,"How many people take part, how often does it happen?",activity
+    Artists,artistry,"What material do you use, is it physical or digital?
+Do you have a certain style?",*What's your location?
+    Car Lift,car lift,Where can you car share from & to,*Where does your car lift start?
+    Charities,charity,Who does your charity help and how does it help them?,charity
+    Childcare,childcare,"Do you offer childcare in your own premises or other peoples?
+How long have you been offering this service?
+Do you have any relevant qualifications or certificates?
+What ages do you cater for?",childcare
+    Classes,class,"What sort of class are you offering?
+Are you organising the class or asking to join someone else's?
+How many people attend the class and what level are they?",class
+    Clubs,club,"What sort of club are you offering?
+Are you organising the club or asking to join someone else's?
+How many people attend the club and what level are they?",club
+    Education,*What do you teach?,Tell us the subjects you teach and perhaps the ages of students you help.,*Where do you teach?
+    Freelancers,freelancing,"How long have been freelancing with this skill?
+What makes you unique?",*Where do you freelance?
+    Misc,*Tell us more about your ad,,*Where does this take place
+    Music,music,"What sort of music are you making?
+Are you looking to start a band?",*Where does this take place
+    News,news,What exciting things have happened that you consider newsworthy?,*Where does this take place
+    Photography,photopgraphy,"What makes you unique?
+Do you have a particular style?",*Where do you photograph
+    Services,service,"What makes you unique?
+How long have you been offering this service?",*Where does this take place
+    Sports,sport,"What sort of sport are you interested in?
+Are you looking for beginners, intermediate. advanced or everybody?
+Is this a male or female only sport?",*Where does this take place
+Classifieds,,,
+    Baby Items,baby item,"How old is the item and what age of baby is it designed for?
+",baby item
+    Books,book,How old is the book and what condition is it in?,book
+    Business & Industrial,item,"What industry would the item be useful for?
+How old is the item and what condition is it in?",item
+    Cameras & Imaging,camera or accessory,How old is it and what condition is it in?,camera or accessory
+    Clothing & Accessories,clothing or accesory,What condition is the item in and hold old is it?,clothing or accessory
+    Collectibles,collectible,"What makes the item unique, perhaps it has an interesting history?",collectible
+    Computers & Networking,computer or device,"What sort of spec does the device have?
+What age and condition is the device and does it have any bugs or glitches?",computer or device
+    DVDs & Movies,DVD or movie,Is the movie in it's original packaging and what condition is it in?,DVD or movie
+    Electronics,electronic item,What condition is the item in and hold old is it?,electronic item
+    Free Stuff,free stuff,Why are you giving the item away for free and what age & condition is it in?,free stuff
+"    Furniture, Home & Garden",furniture,"Does the furniture come from a well known shop?
+What makes it unique?
+What's the age & condition of the item?",furniture
+    Gaming,game or accessory,"Are you offering a bundle of games with a console?
+What condition is it in?",game or accessory
+    Home Appliances,appliance,"What condition is the item in and hold old is it?
+Does the item have any signs of wear and tear?",appliance
+    Jewelry & Watches,jewelry or watch,"What material is it made from and does it have any precious stones?
+If it has gold or precious stones, what grade are they and is there certification authenticating it?",jewellery or watch
+    Lost/Found,what you've lost,"Give as much detail as possible about where the item was lost and what it looks like
+",*Where was last seen?
+    Misc,ad/listing,Tell us about the ad,*What's the location?
+    Mobile Phones & PDAs,mobile phone,What condition is the phone in and does it still work?,mobile phone
+    Music,music,"How much music is for sale, what format is it in and what's the condition like?",music
+    Musical Instruments,instrument,"What brand is the instrument and what's the condition like?
+Why is your instrument unique?",instrument
+    Pets,pet,"Why are you giving up your pet, what age is he/she and are there any behavioural problems?",pet
+    Sports Equipment,sports equiptment,What brand is the equipment and what condition is it in?,sports equipment
+    Stuff Wanted,*Describe what you're looking for,Tell us what your trying to find.,*Where are you looking for this stuff?
+    Tickets & Vouchers,ticket,What & when are the tickets and vouchers for and how many people are included?,ticket
+    Toys,toy,"Are the toys new or old, used or still in the box?",toy
+Jobs Wanted,,,
+    Accounting,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Architecture/Eng.,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Art/Design,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Bank/Finance,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Business Dev.,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Construction,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Consulting,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Education,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Executive,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Hospitality,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    HR/Recruiting,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    IT/Telecom,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Marketing/PR,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Media,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Medical/Health,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Oil/Gas,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Retail,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Sales,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Secretarial,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+    Other,*Describe the job you're looking for,"What makes you stand out amongst other candidates, what makes you unique.",*Where would you like to work?
+Motors,,,
+    Used Cars for Sale,"[car make]      (unless it's ""other make"" then make it ""car"")","Tell us about the characteristics of the car, how long have you owned it, does it have any bumps, scrapes or glitches?",car
+    Auto Accessories & Parts,accessory,"What vehicle is the accessory or part for, is it a genuine or pattern part?",accessory
+    Boats,boat,"Tell us about the characteristics of the boat, how long have you owned it, does it have any repairs of imperfections?",boat
+    Motorcycles,"[motorcycle type]      (unless it's ""other make"" then make it ""motorcycle"")","Tell us about the characteristics of the motorcycle, how long have you owned it, does it have any bumps, scrapes or glitches?",motorcycle
+Residential Property,,,
+    Residential Units for Rent,property,"What is your space like, does it have a certain style?
+What is your neighbourhood like? Are there restaurants, shops or attractions?
+Is there nearby public transport?
+What makes your the property unique?",property
+    Commercial for Rent,property,"What is your space like, does it have a certain style?
+What is your neighbourhood like? Are there restaurants, shops or other business nearby?
+Is there nearby public transport?
+What makes your the property unique?",property
+    Rooms for rent (flatmates),property,"What are the other flatmates like, ages, nationalities, jobs etc?
+What is your space like, does it have a certain style?
+What is your neighbourhood like? Are there restaurants, shops or attractions?
+Is there nearby public transport?
+What makes your the property unique?",property
+    Rooms wanted (flatmates),property,"What are the other flatmates like, ages, nationalities, jobs etc?
+What is your space like, does it have a certain style?
+What is your neighbourhood like? Are there restaurants, shops or attractions?
+Is there nearby public transport?
+What makes your the property unique?",property
+    Short Term (Monthly),property,"What is your space like, does it have a certain style?
+What is your neighbourhood like? Are there restaurants, shops or attractions?
+Is there nearby public transport?
+What makes your the property unique?",property
+    Short Term (Daily),property,"What is your space like, does it have a certain style?
+What is your neighbourhood like? Are there restaurants, shops or attractions?
+Is there nearby public transport?
+What makes your the property unique?",property
+    Rental Wanted,*property you're looking for,"What sort of property would be ideal for you, what are the unique thing you're after?",*Where are you looking to live?
+Jobs,,,
+    Accounting,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Architecture/Eng.,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Art/Design,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Bank/Finance,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Business Dev.,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Construction,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Consulting,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Domestic,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Education,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Executive,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Hospitality,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    HR/Recruiting,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    IT/Telecom,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Marketing/PR,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Media,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Medical/Health,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Oil/Gas,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Retail,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Sales,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Secretarial,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
+    Other,*Describe the job,"What sort of perks come with the job?
+What's the company like top work for? Describe the work environment.
+What makes this job unique",*Where's the job based?
